@@ -1,0 +1,14 @@
+C:\Users\danst\code\dotnet-graphql\obj\Debug\netcoreapp2.1\dotnet-graphql.csprojAssemblyReference.cache
+C:\Users\danst\code\dotnet-graphql\obj\Debug\netcoreapp2.1\dotnet-graphql.csproj.CoreCompileInputs.cache
+C:\Users\danst\code\dotnet-graphql\obj\Debug\netcoreapp2.1\dotnet-graphql.RazorAssemblyInfo.cache
+C:\Users\danst\code\dotnet-graphql\obj\Debug\netcoreapp2.1\dotnet-graphql.RazorAssemblyInfo.cs
+C:\Users\danst\code\dotnet-graphql\obj\Debug\netcoreapp2.1\dotnet-graphql.AssemblyInfoInputs.cache
+C:\Users\danst\code\dotnet-graphql\obj\Debug\netcoreapp2.1\dotnet-graphql.AssemblyInfo.cs
+C:\Users\danst\code\dotnet-graphql\bin\Debug\netcoreapp2.1\dotnet-graphql.deps.json
+C:\Users\danst\code\dotnet-graphql\bin\Debug\netcoreapp2.1\dotnet-graphql.runtimeconfig.json
+C:\Users\danst\code\dotnet-graphql\bin\Debug\netcoreapp2.1\dotnet-graphql.runtimeconfig.dev.json
+C:\Users\danst\code\dotnet-graphql\bin\Debug\netcoreapp2.1\dotnet-graphql.dll
+C:\Users\danst\code\dotnet-graphql\bin\Debug\netcoreapp2.1\dotnet-graphql.pdb
+C:\Users\danst\code\dotnet-graphql\obj\Debug\netcoreapp2.1\dotnet-graphql.RazorTargetAssemblyInfo.cache
+C:\Users\danst\code\dotnet-graphql\obj\Debug\netcoreapp2.1\dotnet-graphql.dll
+C:\Users\danst\code\dotnet-graphql\obj\Debug\netcoreapp2.1\dotnet-graphql.pdb
